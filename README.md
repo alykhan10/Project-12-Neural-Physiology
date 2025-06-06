@@ -1,6 +1,6 @@
-# Project #12: Neural Physiology
-# Configuring an Electroneurogram for Early Diagnosis of Multiple Sclerosis 
+# Project #13: Projection Imaging
+# Identifying Viral Lung Infection from X-Ray Scans Using Machine Learning
 
-● Utilized electroneurogram (ENG) as a minimally-invasive technique for sensory and motor stimulation of the vagus nerve                 
-● Designed proof-of-concept with 2 cuff electrodes to measure change in latency times from action potential of nerve bundles                
-● Identified beamforming as a spatial filter for isolation of impulses to amplify signal-to-noise ratio and reduce axonal crosstalk
+● Conducted literature review to outline state-of-the-art methods for diagnosing lung infection using radiography         
+● Extracted chest x-ray scans into 3D Slicer software from a randomized trial with 2 control and infected test subjects          
+● Characterized differences for normal and viral lungs via the Sobel edge-detection filter and histograms in MATLAB         
