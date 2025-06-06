@@ -1,5 +1,5 @@
-# Project #13: Projection Imaging
-# Identifying Viral Lung Infection from X-Ray Scans Using Machine Learning
+# Project #13: Medical Imaging
+# Identifying Viral Lung Infection from X-Ray Scans Using Computational Methods
 
 ● Conducted literature review to outline state-of-the-art methods for diagnosing lung infection using radiography         
 ● Extracted chest x-ray scans into 3D Slicer software from a randomized trial with 2 control and infected test subjects          
